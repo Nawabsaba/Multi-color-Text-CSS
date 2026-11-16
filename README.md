@@ -1,6 +1,7 @@
 # Multi-color-Text-CSS
+Want to create beautiful multi-color text using HTML and CSS? 🌈 In this short tutorial, I'll show you how to create colourful gradient text using simple HTML and CSS without JavaScript.
 
-
+Learn how to apply CSS gradient effects to text and make your website look more attractive with this beginner-friendly coding tutorial.
 
 # HTML Program : -
       <!DOCTYPE html>
@@ -72,3 +73,28 @@
         font-size: 10vw;
       }
     }
+
+
+🔥 In This Video:
+
+✅ How to Create Multi-Color Text Using CSS
+
+✅ Colourful Gradient Text Effect
+
+✅ HTML and CSS Coding Tutorial
+
+✅ CSS Linear Gradient Text Effect
+
+✅ Simple and Easy CSS Tricks
+
+✅ Creative Text Effects for Websites
+
+💻 Technologies: HTML5 & CSS3
+🎯 Level: Beginner Friendly
+📅 Tutorial: 2026
+
+🔗 Learn More: Follow Amith Thoughts for more HTML, CSS, JavaScript, web development, coding tutorials, and computer tips.
+
+👍 Like, Share & Subscribe to Amith Thoughts for more interesting coding tricks and technology tutorials.
+
+🔔 Amith Thoughts – Learn Technology for Free!
