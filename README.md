@@ -3,6 +3,8 @@ Want to create beautiful multi-color text using HTML and CSS? 🌈 In this short
 
 Learn how to apply CSS gradient effects to text and make your website look more attractive with this beginner-friendly coding tutorial.
 
+![image alt](https://github.com/Nawabsaba/Multi-color-Text-CSS/blob/387d1d13557104de29a206f39a7b5ad87090fd30/Youtube%20video%20Thumbnail.png)
+
 # HTML Program : -
       <!DOCTYPE html>
       <html lang="en">
